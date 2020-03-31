@@ -1,0 +1,23 @@
+* {
+  font-family: "Lato",sans-serif;
+  text-align: center;
+  color: white;
+  background-color:black;
+}
+
+.mmdesign-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 80px;
+  font-weight: 700;
+}
+
+
+.mmdesign-arrow {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-bottom: 20px;
+}
